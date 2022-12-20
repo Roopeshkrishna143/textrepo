@@ -62,7 +62,7 @@
                     </td>
                     <td>
                         <asp:DropDownList ID="DropDownList1" runat="server" style="border-block-color:chartreuse">
-                            <asp:ListItem>Phone pay</asp:ListItem>
+                            <asp:ListItem>Phone   pay</asp:ListItem>
                             <asp:ListItem>Google pay</asp:ListItem>
                             <asp:ListItem>Paytm</asp:ListItem>
                         </asp:DropDownList>
