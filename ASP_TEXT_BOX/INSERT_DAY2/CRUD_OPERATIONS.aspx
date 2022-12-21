@@ -21,7 +21,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <div style="font-size:x-large;">PATIENT  cghcyc INFO</div>
+            <div style="font-size:x-large;">PATIENT              cghcyc INFO</div>
             <br />
             <table class="auto-style1" style="background-color:black">
                 <tr>
