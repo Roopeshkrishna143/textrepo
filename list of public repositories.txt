@@ -1,19 +1,53 @@
 List of public repositories. 
 Upto 30 pages in git hub.
 
-IdentifyServer/IdentifyServer4
+netchx/netch
+
+dnSpy/dnSpy
 
 OmniSharp/generator-aspnet
 
+de4dot/de4dot
+
+facebookarchive/RakNet 
+
+IdentityServer/IdentityServer4
+
 brunobritodev/JPProject.IdentityServer4.AdminUI
+
+aspnet/MusicStore
+
+IdentityServer/IdentityServer3.AspNetIdentity
 
 telerik/kendo-examples-asp-net-mvc
 
+aspnet/NerdDinner 
+
+dotnet-architecture/HealthChecks
+
 aspnet-contrib/AspNet.Security.OpenIdConnect.Server
+
+azzlack/Microsoft.AspNet.WebApi.MessageHandlers.Compression 
+
+mgyongyosi/VuejsSSRSample
+
+aspnet/Tooling
 
 microsoft/ApplicationInsights-aspnetcore
 
+imranbaloch/ASPNETIdentityWithOnion 
+
+enyim/memcached-providers 
+
 VeronicaWasson/LocalAccountsApp
+
+ritterim/stuntman
+
+JeremySkinner/git-dot-aspx 
+
+aspnet/Templating
+
+aspnet/Proxy 
 
 stefanprodan/MvcThrottle
 
@@ -48,3 +82,81 @@ aspnet/AspNetCoreModule
 IdentityManager/IdentityManager.AspNetIdentity
 
 aspnet/WebHooks
+
+Xabaril/JWTSimpleServer 
+
+SignalR/SignalR-Client-Cpp
+
+danvic712/Grapefruit.VuCore
+
+aspnet-contrib/AspNet.Security.OpenIdConnect.Samples
+
+stefanprodan/aspnetcore-dockerswarm
+
+aspnet-contrib/AspNet.Security.OpenIdConnect.Samples
+
+danvic712/Grapefruit.VuCore
+
+aspnet/BasicMiddleware
+
+auth0/auth0-aspnet-owin
+
+WeihanLi/AccessControlHelper
+
+aspnet/Mvc 
+
+wshearn/openshift-community-cartridge-mono
+
+AppMetrics/AspNetCore
+
+fsprojects-archive/zzarchive-fsharp-dnx 
+
+mdymel/AspNetCoreAngular2
+
+aspnet/AspNetWebOptimization 
+
+aspnet/AspNetWebOptimization 
+
+JamesRandall/AccidentalFish.AspNet.Identity.Azure
+
+aspnet/DependencyInjection 
+
+Azure-Samples/simple-feed-reader
+
+aspnet/Session
+
+Azure-Samples/active-directory-b2c-dotnetcore-webapp
+
+aspnet/IISIntegration 
+
+aspnet/Hosting 
+
+aspnet-contrib/AspNet.Security.OAuth.Extensions 
+
+hotchkj/AspNetCore.DataProtection.Aws 
+
+esausilva/ASP.Net-EventCalendar
+
+dajuric/websocket-rpc 
+
+mubaidr/SPA-asp.net-api-vuejs-
+
+SimpleAuthentication/SimpleAuthentication 
+
+mono/mod_mono
+
+KevinDockx/SecuringAspNetCore2WithOAuth2AndOIDC
+
+aspnet/aspnet-docker 
+
+aspnet/libuv-build
+
+duosecurity/duo_dotnet 
+
+telerik-boneyard/wrappers-getting-started
+
+muratbaseren/Udemy-WebApi-Egitimi
+
+
+
+
