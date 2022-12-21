@@ -7,7 +7,7 @@
     <title></title>
     <style type="text/css">
         .auto-style1 {
-            width: 70%;
+            width: 80%;
             border-style: solid;
             border-width: 2px;
             
