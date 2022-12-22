@@ -1,5 +1,5 @@
 List of public repositories. 
-Upto 30 pages in git hub.
+Upto 90 pages in git hub.
 
 netchx/netch
 
@@ -156,6 +156,46 @@ duosecurity/duo_dotnet
 telerik-boneyard/wrappers-getting-started
 
 muratbaseren/Udemy-WebApi-Egitimi
+
+
+MOST DOWNLOADED REPOSITORIES:-
+
+
+
+aspnet/Mvc
+
+IdentityServer/IdentityServer4
+
+aspnet/KestrelHttpServer 
+
+aspnet/SignalR
+
+IdentityServer/IdentityServer3
+
+aspnet/Identity
+
+aspnet/MusicStore
+
+ProxyKit/ProxyKit 
+
+OmniSharp/generator-aspnet
+
+aspnet/DependencyInjection
+
+aspnet/aspnet-docker
+
+aspnet/WebHooks
+
+Xabaril/BeatPulse 
+
+JacekKosciesza/StarWars
+
+
+
+
+
+
+
 
 
 
